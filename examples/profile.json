@@ -1,0 +1,62 @@
+{
+  "competitiveStats": {
+    "awards": {
+      "cards": 0,
+      "medals": 0,
+      "medalsBronze": 0,
+      "medalsSilver": 0,
+      "medalsGold": 0
+    },
+    "games": {
+      "played": 162,
+      "won": 79
+    },
+    "season": null
+  },
+  "endorsement": 1,
+  "endorsementIcon": "https://static.playoverwatch.com/img/pages/career/icons/endorsement/1-9de6d43ec5.svg#icon",
+  "gamesLost": 489,
+  "gamesPlayed": 939,
+  "gamesWon": 450,
+  "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a5aead2feaf05460480b3e73eb2f23e984e8514672a0b9a1fa3ff08976f0f792.png",
+  "name": "WitchElaina",
+  "private": false,
+  "quickPlayStats": {
+    "awards": {
+      "cards": 0,
+      "medals": 0,
+      "medalsBronze": 0,
+      "medalsSilver": 0,
+      "medalsGold": 0
+    },
+    "games": {
+      "played": 777,
+      "won": 371
+    }
+  },
+  "rating": 0,
+  "ratingIcon": "",
+  "ratings": [
+    {
+      "group": "Gold",
+      "tier": 3,
+      "role": "tank",
+      "roleIcon": "https://static.playoverwatch.com/img/pages/career/icons/role/tank-f64702b684.svg#icon",
+      "rankIcon": "https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-3-f715b68968.png"
+    },
+    {
+      "group": "Silver",
+      "tier": 1,
+      "role": "offense",
+      "roleIcon": "https://static.playoverwatch.com/img/pages/career/icons/role/offense-ab1756f419.svg#icon",
+      "rankIcon": "https://static.playoverwatch.com/img/pages/career/icons/rank/SilverTier-1-210286a329.png"
+    },
+    {
+      "group": "Gold",
+      "tier": 2,
+      "role": "support",
+      "roleIcon": "https://static.playoverwatch.com/img/pages/career/icons/role/support-0258e13d85.svg#icon",
+      "rankIcon": "https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-2-c8e5a08e32.png"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "competitiveStats": {
+    "awards": {
+      "cards": 0,
+      "medals": 0,
+      "medalsBronze": 0,
+      "medalsSilver": 0,
+      "medalsGold": 0
+    },
+    "careerStats": {
+      "allHeroes": {
+        "assists": {
+          "assists": 854,
+          "defensiveAssists": 472,
+          "healingDone": 371267,
+          "offensiveAssists": 437,
+          "reconAssists": 20
+        },
+        "average": {
+          "assistsAvgPer10Min": 4.81,
+          "deathsAvgPer10Min": 6.93,
+          "eliminationsAvgPer10Min": 14.48,
+          "finalBlowsAvgPer10Min": 6.8,
+          "healingDoneAvgPer10Min": 2090,
+          "heroDamageDoneAvgPer10Min": 6384,
+          "objectiveContestTimeAvgPer10Min": "00:29",
+          "objectiveKillsAvgPer10Min": 4.74,
+          "objectiveTimeAvgPer10Min": "00:57",
+          "soloKillsAvgPer10Min": 1.2,
+          "timeSpentOnFireAvgPer10Min": "01:06"
+        },
+        "best": {
+          "assistsMostInGame": 29,
+          "eliminationsMostInGame": 49,
+          "finalBlowsMostInGame": 26,
+          "healingDoneMostInGame": 18198,
+          "heroDamageDoneMostInGame": 22819,
+          "killsStreakBest": 17,
+          "meleeFinalBlowsMostInGame": 3,
+          "multikillsBest": 4,
+          "objectiveContestTimeMostInGame": "02:34",
+          "objectiveKillsMostInGame": 20,
+          "objectiveTimeMostInGame": "05:48",
+          "reconAssistsMostInGame": 3,
+          "soloKillsMostInGame": 26
+        },
+        "combat": {
+          "damageDone": 1134133,
+          "deaths": 1231,
+          "eliminations": 2572,
+          "environmentalKills": 4,
+          "finalBlows": 1208,
+          "heroDamageDone": 1134133,
+          "meleeFinalBlows": 65,
+          "multikills": 20,
+          "objectiveContestTime": "01:25:37",
+          "objectiveKills": 842,
+          "objectiveTime": "02:49:49",
+          "soloKills": 213,
+          "timeSpentOnFire": "03:14:09"
+        },
+        "heroSpecific": null,
+        "game": {
+          "gamesLost": 83,
+          "gamesPlayed": 162,
+          "gamesWon": 79,
+          "timePlayed": "29:36:34"
+        },
+        "matchAwards": null
+      },
+      "dVa": {
+        "assists": {
+          "assists": 5
+        },
+        "average": {
+          "assistsAvgPer10Min": 3.41,
+          "criticalHitsAvgPer10Min": 275,
+          "deathsAvgPer10Min": 8.86,
+          "eliminationsAvgPer10Min": 12.27,
+          "eliminationsPerLife": 1.38,
+          "finalBlowsAvgPer10Min": 5.46,
+          "heroDamageDoneAvgPer10Min": 7732,
+          "objContestTimeAvgPer10Min": "01:01",
+          "objectiveKillsAvgPer10Min": 4.09,
+          "objectiveTimeAvgPer10Min": "01:58",
+          "soloKillsAvgPer10Min": 1.36,
+          "timeSpentOnFireAvgPer10Min": "01:36"
+        },
+        "best": {
+          "assistsMostInGame": 4,
+          "criticalHitsMostInGame": 167,
+          "criticalHitsMostInLife": 116,
+          "eliminationsMostInGame": 10,
+          "eliminationsMostInLife": 8,
+          "finalBlowsMostInGame": 3,
+          "heroDamageDoneMostInGame": 3915,
+          "heroDamageDoneMostInLife": 2976,
+          "killsStreakBest": 8,
+          "objContestTimeMostInGame": "00:35",
+          "objectiveKillsMostInGame": 4,
+          "objectiveTimeMostInGame": "01:39",
+          "soloKillsMostInGame": 2,
+          "weaponAccuracyBestInGame": "37%"
+        },
+        "combat": {
+          "criticalHits": 404,
+          "criticalHitsAccuracy": "10%",
+          "damageDone": 12855,
+          "deaths": 13,
+          "eliminations": 18,
+          "finalBlows": 8,
+          "heroDamageDone": 11340,
+          "objContestTime": "01:30",
+          "objectiveKills": 6,
+          "objectiveTime": "02:54",
+          "soloKills": 2,
+          "timeSpentOnFire": "02:20",
+          "weaponAccuracy": "22%"
+        },
+        "heroSpecific": {
+          "callMechKillsAvgPer10Min": 2.73,
+          "microMissileKills": 3,
+          "microMissileKillsAvgPer10Min": 2.05,
+          "microMissileKillsMostInGame": 2,
+          "selfDestructKills": 4,
+          "selfDestructKillsAvgPer10Min": 2.73,
+          "selfDestructKillsMostInGame": 2
+        },
+        "game": {
+          "gamesLost": 2,
+          "gamesPlayed": 2,
+          "gamesWon": 0,
+          "heroWins": 0,
+          "knockbackKillsMostInGame": 3,
+          "timePlayed": "14:40",
+          "winPercentage": "9%"
+        },
+        "matchAwards": null
+      },
+      "lifeweaver": {
+        "assists": {
+          "assists": 39,
+          "defensiveAssists": 39,
+          "defensiveAssistsAvgPer10Min": 16.87,
+          "defensiveAssistsMostInGame": 20,
+          "healingDone": 24718
+        },
+        "average": {
+          "assistsAvgPer10Min": 16.87,
+          "criticalHitsAvgPer10Min": 10.38,
+          "deathsAvgPer10Min": 4.76,
+          "eliminationsAvgPer10Min": 2.16,
+          "eliminationsPerLife": 0.45,
+          "healingDoneAvgPer10Min": 10693,
+          "heroDamageDoneAvgPer10Min": 548,
+          "objContestTimeAvgPer10Min": "00:26",
+          "objectiveKillsAvgPer10Min": 2.16,
+          "objectiveTimeAvgPer10Min": "01:21",
+          "timeSpentOnFireAvgPer10Min": "00:18"
+        },
+        "best": {
+          "assistsMostInGame": 20,
+          "criticalHitsMostInGame": 11,
+          "criticalHitsMostInLife": 11,
+          "eliminationsMostInGame": 5,
+          "eliminationsMostInLife": 4,
+          "heroDamageDoneMostInGame": 474,
+          "heroDamageDoneMostInLife": 437,
+          "killsStreakBest": 4,
+          "objContestTimeMostInGame": "00:30",
+          "objectiveKillsMostInGame": 5,
+          "objectiveTimeMostInGame": "01:16",
+          "weaponAccuracyBestInGame": "39%"
+        },
+        "combat": {
+          "criticalHits": 24,
+          "criticalHitsAccuracy": "10%",
+          "damageDone": 1860,
+          "deaths": 11,
+          "eliminations": 5,
+          "heroDamageDone": 1266,
+          "objContestTime": "01:01",
+          "objectiveKills": 5,
+          "objectiveTime": "03:08",
+          "timeSpentOnFire": "00:42",
+          "weaponAccuracy": "22%"
+        },
+        "heroSpecific": {
+          "selfHealing": 1393,
+          "selfHealingAvgPer10Min": 603,
+          "selfHealingMostInGame": 598,
+          "thornVolleyKills": 5,
+          "thornVolleyKillsAvgPer10Min": 2.16,
+          "thornVolleyKillsMostInGame": 5
+        },
+        "game": {
+          "gameWon": 1,
+          "gamesLost": 1,
+          "gamesPlayed": 2,
+          "heroWin": 1,
+          "timePlayed": "23:07",
+          "winPercentage": "55%"
+        },
+        "matchAwards": null
+      }
+    },
+    "games": {
+      "played": 162,
+      "won": 79
+    },
+    "season": null,
+    "topHeroes": {
+      "dVa": {
+        "timePlayed": "14:40",
+        "gamesWon": 0,
+        "weaponAccuracy": 22,
+        "criticalHitAccuracy": 10,
+        "eliminationsPerLife": 1.38,
+        "multiKillBest": 0,
+        "objectiveKills": 6
+      },
+      "lifeweaver": {
+        "timePlayed": "23:07",
+        "gamesWon": 1,
+        "weaponAccuracy": 22,
+        "criticalHitAccuracy": 10,
+        "eliminationsPerLife": 0.45,
+        "multiKillBest": 0,
+        "objectiveKills": 5
+      }
+    }
+  },
+  "endorsement": 1,
+  "endorsementIcon": "https://static.playoverwatch.com/img/pages/career/icons/endorsement/1-9de6d43ec5.svg#icon",
+  "gamesLost": 489,
+  "gamesPlayed": 939,
+  "gamesWon": 450,
+  "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ec61bd7f2c810f21fc5132c2c0b8bca3a9423c506766d06c1c70be3e92bc4d9c.png",
+  "name": "WitchElaina",
+  "private": false,
+  "quickPlayStats": {
+    "awards": {
+      "cards": 0,
+      "medals": 0,
+      "medalsBronze": 0,
+      "medalsSilver": 0,
+      "medalsGold": 0
+    },
+    "careerStats": {
+      "allHeroes": {
+        "assists": {
+          "assists": 4222,
+          "defensiveAssists": 3077,
+          "healingDone": 1910888,
+          "offensiveAssists": 1821,
+          "reconAssists": 135
+        },
+        "average": {
+          "assistsAvgPer10Min": 6.59,
+          "deathsAvgPer10Min": 6.74,
+          "eliminationsAvgPer10Min": 13.87,
+          "finalBlowsAvgPer10Min": 6.6,
+          "healingDoneAvgPer10Min": 2981,
+          "heroDamageDoneAvgPer10Min": 5247,
+          "objectiveContestTimeAvgPer10Min": "00:28",
+          "objectiveKillsAvgPer10Min": 4.13,
+          "objectiveTimeAvgPer10Min": "00:50",
+          "soloKillsAvgPer10Min": 1.25,
+          "timeSpentOnFireAvgPer10Min": "00:14"
+        },
+        "best": {
+          "assistsMostInGame": 27,
+          "eliminationsMostInGame": 39,
+          "finalBlowsMostInGame": 27,
+          "healingDoneMostInGame": 12607,
+          "heroDamageDoneMostInGame": 15340,
+          "killsStreakBest": 20,
+          "meleeFinalBlowsMostInGame": 5,
+          "multikillsBest": 5,
+          "objectiveContestTimeMostInGame": "03:14",
+          "objectiveKillsMostInGame": 19,
+          "objectiveTimeMostInGame": "05:00",
+          "reconAssistsMostInGame": 9,
+          "soloKillsMostInGame": 27
+        },
+        "combat": {
+          "damageDone": 3362925,
+          "deaths": 4317,
+          "eliminations": 8893,
+          "environmentalKills": 15,
+          "finalBlows": 4233,
+          "heroDamageDone": 3362925,
+          "meleeFinalBlows": 267,
+          "multikills": 62,
+          "objectiveContestTime": "04:56:06",
+          "objectiveKills": 2644,
+          "objectiveTime": "08:51:20",
+          "soloKills": 798,
+          "timeSpentOnFire": "02:33:18"
+        },
+        "heroSpecific": null,
+        "game": {
+          "gamesLost": 406,
+          "gamesPlayed": 777,
+          "gamesWon": 371,
+          "timePlayed": "106:49:32"
+        },
+        "matchAwards": null
+      },
+      "dVa": {
+        "assists": {
+          "assists": 67
+        },
+        "average": {
+          "assistsAvgPer10Min": 6.25,
+          "criticalHitsAvgPer10Min": 236,
+          "criticalHitsKillsAvgPer10Min": 1.12,
+          "deathsAvgPer10Min": 5.32,
+          "eliminationsAvgPer10Min": 19.77,
+          "eliminationsPerLife": 3.72,
+          "finalBlowsAvgPer10Min": 9.7,
+          "heroDamageDoneAvgPer10Min": 7485,
+          "meleeFinalBlowsAvgPer10Min": 0.56,
+          "objContestTimeAvgPer10Min": "01:14",
+          "objectiveKillsAvgPer10Min": 6.44,
+          "objectiveTimeAvgPer10Min": "01:51",
+          "soloKillsAvgPer10Min": 0.84,
+          "timeSpentOnFireAvgPer10Min": "00:28"
+        },
+        "best": {
+          "assistsMostInGame": 9,
+          "criticalHitsKillsMostInGame": 4,
+          "criticalHitsMostInGame": 325,
+          "criticalHitsMostInLife": 171,
+          "eliminationsMostInGame": 24,
+          "eliminationsMostInLife": 19,
+          "finalBlowsMostInGame": 12,
+          "heroDamageDoneMostInGame": 8040,
+          "heroDamageDoneMostInLife": 6255,
+          "killsStreakBest": 19,
+          "meleeFinalBlowsMostInGame": 3,
+          "multikillsBest": 3,
+          "objContestTimeMostInGame": "02:55",
+          "objectiveKillsMostInGame": 10,
+          "objectiveTimeMostInGame": "02:55",
+          "soloKillsMostInGame": 2,
+          "weaponAccuracyBestInGame": "33%"
+        },
+        "combat": {
+          "criticalHits": 2533,
+          "criticalHitsAccuracy": "8%",
+          "criticalHitsKills": 12,
+          "damageDone": 108762,
+          "deaths": 57,
+          "eliminations": 212,
+          "finalBlows": 104,
+          "heroDamageDone": 80250,
+          "meleeFinalBlows": 6,
+          "multikills": 2,
+          "objContestTime": "13:14",
+          "objectiveKills": 69,
+          "objectiveTime": "19:46",
+          "soloKills": 9,
+          "timeSpentOnFire": "05:04",
+          "weaponAccuracy": "21%"
+        },
+        "heroSpecific": {
+          "callMechKills": 5,
+          "callMechKillsAvgPer10Min": 2.43,
+          "callMechKillsMostInGame": 2,
+          "microMissileKills": 89,
+          "microMissileKillsAvgPer10Min": 8.3,
+          "microMissileKillsMostInGame": 10,
+          "selfDestructKills": 26,
+          "selfDestructKillsAvgPer10Min": 2.43,
+          "selfDestructKillsMostInGame": 6
+        },
+        "game": {
+          "gamesLost": 9,
+          "gamesPlayed": 13,
+          "gamesWon": 4,
+          "heroWins": 4,
+          "timePlayed": "01:47:13",
+          "winPercentage": "28%"
+        },
+        "matchAwards": null
+      },
+      "lifeweaver": {
+        "assists": {
+          "assists": 120,
+          "defensiveAssists": 122,
+          "defensiveAssistsAvgPer10Min": 12.34,
+          "defensiveAssistsMostInGame": 13,
+          "healingDone": 68329
+        },
+        "average": {
+          "assistsAvgPer10Min": 12.14,
+          "criticalHitsAvgPer10Min": 35.8,
+          "criticalHitsKillsAvgPer10Min": 0.2,
+          "deathsAvgPer10Min": 5.97,
+          "eliminationsAvgPer10Min": 5.66,
+          "eliminationsPerLife": 0.95,
+          "finalBlowsAvgPer10Min": 0.91,
+          "healingDoneAvgPer10Min": 6910,
+          "heroDamageDoneAvgPer10Min": 1432,
+          "meleeFinalBlowsAvgPer10Min": 0.1,
+          "objContestTimeAvgPer10Min": "00:41",
+          "objectiveKillsAvgPer10Min": 1.72,
+          "objectiveTimeAvgPer10Min": "01:01",
+          "soloKillsAvgPer10Min": 0.1,
+          "timeSpentOnFireAvgPer10Min": "00:15"
+        },
+        "best": {
+          "assistsMostInGame": 12,
+          "criticalHitKillsMostInGame": 1,
+          "criticalHitsMostInGame": 65,
+          "criticalHitsMostInLife": 36,
+          "eliminationsMostInGame": 13,
+          "eliminationsMostInLife": 5,
+          "finalBlowsMostInGame": 3,
+          "heroDamageDoneMostInGame": 2140,
+          "heroDamageDoneMostInLife": 996,
+          "killsStreakBest": 5,
+          "meleeFinalBlowsMostInGame": 1,
+          "objContestTimeMostInGame": "01:57",
+          "objectiveKillsMostInGame": 4,
+          "objectiveTimeMostInGame": "01:57",
+          "soloKillsMostInGame": 1,
+          "weaponAccuracyBestInGame": "39%"
+        },
+        "combat": {
+          "criticalHits": 354,
+          "criticalHitsAccuracy": "12%",
+          "criticalHitsKills": 2,
+          "damageDone": 19339,
+          "deaths": 59,
+          "eliminations": 56,
+          "finalBlows": 9,
+          "heroDamageDone": 14163,
+          "meleeFinalBlows": 1,
+          "objContestTime": "06:46",
+          "objectiveKills": 17,
+          "objectiveTime": "09:58",
+          "soloKills": 1,
+          "timeSpentOnFire": "02:27",
+          "weaponAccuracy": "25%"
+        },
+        "heroSpecific": {
+          "lifeGripDeathsPrevented": 12,
+          "lifeGripDeathsPreventedAvgPer10Min": 1.21,
+          "lifeGripDeathsPreventedMostInGame": 3,
+          "selfHealing": 5520,
+          "selfHealingAvgPer10Min": 558,
+          "selfHealingMostInGame": 857,
+          "thornVolleyKills": 56,
+          "thornVolleyKillsAvgPer10Min": 5.66,
+          "thornVolleyKillsMostInGame": 13
+        },
+        "game": {
+          "gamesLost": 7,
+          "gamesPlayed": 11,
+          "gamesWon": 5,
+          "heroWins": 5,
+          "timePlayed": "01:38:53",
+          "winPercentage": "41%"
+        },
+        "matchAwards": null
+      }
+    },
+    "games": {
+      "played": 777,
+      "won": 371
+    },
+    "topHeroes": {
+      "dVa": {
+        "timePlayed": "01:47:13",
+        "gamesWon": 4,
+        "weaponAccuracy": 21,
+        "criticalHitAccuracy": 8,
+        "eliminationsPerLife": 3.72,
+        "multiKillBest": 3,
+        "objectiveKills": 69
+      },
+      "lifeweaver": {
+        "timePlayed": "01:38:53",
+        "gamesWon": 5,
+        "weaponAccuracy": 25,
+        "criticalHitAccuracy": 12,
+        "eliminationsPerLife": 0.95,
+        "multiKillBest": 0,
+        "objectiveKills": 17
+      }
+    }
+  },
+  "rating": 0,
+  "ratingIcon": "",
+  "ratings": [
+    {
+      "group": "Gold",
+      "tier": 3,
+      "role": "tank",
+      "roleIcon": "https://static.playoverwatch.com/img/pages/career/icons/role/tank-f64702b684.svg#icon",
+      "rankIcon": "https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-3-f715b68968.png"
+    },
+    {
+      "group": "Silver",
+      "tier": 1,
+      "role": "offense",
+      "roleIcon": "https://static.playoverwatch.com/img/pages/career/icons/role/offense-ab1756f419.svg#icon",
+      "rankIcon": "https://static.playoverwatch.com/img/pages/career/icons/rank/SilverTier-1-210286a329.png"
+    },
+    {
+      "group": "Gold",
+      "tier": 2,
+      "role": "support",
+      "roleIcon": "https://static.playoverwatch.com/img/pages/career/icons/role/support-0258e13d85.svg#icon",
+      "rankIcon": "https://static.playoverwatch.com/img/pages/career/icons/rank/GoldTier-2-c8e5a08e32.png"
+    }
+  ]
+}
